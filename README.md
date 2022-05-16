@@ -4,7 +4,6 @@ description: >-
   to a ton of different web services, and a lot of them can be exploited.
 ---
 
-# Part 3 - Web hacking
 
 ## What do you learn in this part?
 
@@ -289,3 +288,6 @@ To be nice I have censored the hashed password of the admin, but as you can see 
 ![](.gitbook/assets/image%20%2814%29.png)
 
 
+Buy me a coffee on 
+paypal
+![](
