@@ -287,6 +287,6 @@ To be nice I have censored the hashed password of the admin, but as you can see 
 
 ![](.gitbook/assets/image%20%2814%29.png)
 
-
+copy by []https://github.com/chryzsh/practical-hacking
 Buy me a coffee on 
 paypal
