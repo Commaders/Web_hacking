@@ -290,4 +290,3 @@ To be nice I have censored the hashed password of the admin, but as you can see 
 
 Buy me a coffee on 
 paypal
-![](
